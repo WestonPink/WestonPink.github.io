@@ -1,0 +1,62 @@
+#name{
+	
+	border: 2px solid black;
+	padding: 2vw;
+	font-size: 2vw;
+	text-align: center;
+	
+}
+
+
+.left-column-item{
+	display: inline-block;
+	width: 50vw;
+	padding: 2vw;
+	font-size: 2vw;
+	
+}
+.dip{
+	border: 2px solid black;
+	display: inline-block;
+	width: 15vw; 
+	vertical-align: top;
+}
+.right-column-item{
+	display:inline-block;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	padding-left: 1vw;
+	padding-right: 1vw;
+	font-size: 2vw;	
+}
+
+.Me{
+	border: 2px solid black;
+	display:inline-block;
+	width: 80vw;
+}
+
+.s{
+	display: inline-block;
+	border: 2px solid black;
+	vertical-align: bottom;
+	padding: 0px;
+	padding: 20px;
+	width: 8vw;
+	height: 1vw;
+	font-size: 1vw;
+	
+}
+.dream{
+	
+}
+body{
+	background-color: #9F826D;
+}
+.bcku{
+	border: 2px solid black;
+}
+
+#p{
+	border: 2px solid black;
+	
